@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Review on Pixyll </title>
+      <title>Review on 陌上 </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>/en/tags/review/</link>
+    <link>https://treylin.me/en/tags/review/</link>
     <language>en-us</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>2016 年总结</title>
-      <link>/en/post/2016-12-15-2016-in-review/</link>
+      <link>https://treylin.me/en/post/2016-12-15-2016-in-review/</link>
       <pubDate>Sat, 31 Dec 2016 22:00:00 CST</pubDate>
       
-      <guid>/en/post/2016-12-15-2016-in-review/</guid>
+      <guid>https://treylin.me/en/post/2016-12-15-2016-in-review/</guid>
       <description>&lt;p&gt;今年的阅读量提高了一点，通过在豆瓣上标记为「读过」的数量计算，是二十三本，
 手边还是三本是还在阅读中的。数量上并没有太大飞跃，看着这一串书名，时间就在它们的陪伴下一刻不停地走着。走着走着，一年就过去了。&lt;/p&gt;
 
@@ -23,25 +23,25 @@
     
     <item>
       <title>二零一五年回顾</title>
-      <link>/en/post/2016-12-14-2015-review/</link>
+      <link>https://treylin.me/en/post/2016-12-14-2015-review/</link>
       <pubDate>Mon, 21 Dec 2015 23:43:35 CST</pubDate>
       
-      <guid>/en/post/2016-12-14-2015-review/</guid>
+      <guid>https://treylin.me/en/post/2016-12-14-2015-review/</guid>
       <description>好的，写点回顾。
 今年在豆瓣上标记「读过」的书有十二本，一个月一本，缓慢地啃食着。如下：
-* 《棋王》
-* 《触动人心》
-* 《程序员修炼之道》
-* 《程序员的思维修炼》
-* 《Unix/Linux 编程实践教程》
-* 《C Primer Plus》
-* 《Python 基础教程》
-* 《异乡人》
-* 《江城》
-* 《设计中的设计》
-* 《除非灵魂拍手作歌》
-* 《OS X Mountain Lion 高手进阶》
-工作上，今年在团队里也担任了一些更重要的工作，也有一些独立负责的模块。这给了自己很大的空间去发挥。总体来说，觉得自己在合格线之上吧，但没有到达优秀。期间有一些不知所措的时候，火候未到。
+ 《棋王》
+ 《触动人心》
+ 《程序员修炼之道》
+ 《程序员的思维修炼》
+ 《Unix/Linux 编程实践教程》
+ 《C Primer Plus》
+ 《Python 基础教程》
+ 《异乡人》
+ 《江城》
+ 《设计中的设计》
+ 《除非灵魂拍手作歌》
+ 《OS X Mountain Lion 高手进阶》
+  工作上，今年在团队里也担任了一些更重要的工作，也有一些独立负责的模块。这给了自己很大的空间去发挥。总体来说，觉得自己在合格线之上吧，但没有到达优秀。期间有一些不知所措的时候，火候未到。
 接收到的信息量很大。各个领域的知识，少有深及腹地的，多是一些蜻蜓点水，浅尝辄止。缺乏整理和沉淀。
 而在谈论到自己感兴趣的东西的时候，我自己都会感觉到自己的眼睛放着光，嘴角带着笑意，嘴上滔滔不绝，唾沫横飞。有时候说激动了，身体还略带颤抖。这应该还是心理素质不到位导致的。另一面，出了这些话题，我又变得寡言，词穷，甚至无所适从。似乎是某种社交障碍。有时我是有意保持安静，但大多数时候，是确实不知道应该说什么。
 考虑是否也需要以日记或者周记的形式，来记录一些东西。因为写到这里，似乎就没话说了。
