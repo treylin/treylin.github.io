@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Life on 陌上 </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>https://treylin.me/categories/life/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Sun, 24 Jan 2016 23:36:38 CST</updated>
+    
+    <item>
+      <title>霰</title>
+      <link>https://treylin.me/post/2016-12-14-sleet/</link>
+      <pubDate>Sun, 24 Jan 2016 23:36:38 CST</pubDate>
+      
+      <guid>https://treylin.me/post/2016-12-14-sleet/</guid>
+      <description>原定去长隆动物世界的计划，在一场急剧的降温到来时，被我和恬心照不宣地给取消了。其实原来的计划是随公司的团去泰国的，可了解到是跟团，有购物点，自由活动时间不多，还是作罢。去年去马来西亚的那一趟还是不错，没有多余动作，玩得开心尽兴。
+昨天，吃了四川火锅。肉片，毛肚，于红油中翻滚，数秒后即可离锅入口，吃得热闹，爽快。
+今天，开手机里的天气应用，给的是「Sleet」这个天气，是生词，查了一下，雨雪。到阳台看了看，天空中确实飘着些白白的颗粒。起初以为是旁边工地建筑过程中的一些灰尘飘落，细细地看了许久，不知道其具体的名称。后来知道了，是霰。
+晚上和恬吃完饭，打车回来，司机说起了天气的冷，说我们年轻人就是身体好穿得少。我看看自己，羊毛，针织衫，大衣，还围巾，笑笑说，我穿得挺多的。我问他：师傅你路上有看到冰粒么。师傅说：有啊，一粒一粒打在玻璃上，像小米一样。</description>
+    </item>
+    
+    <item>
+      <title>最近</title>
+      <link>https://treylin.me/post/2014-10-13-ge-chi/</link>
+      <pubDate>Mon, 13 Oct 2014 21:12:31 CST</pubDate>
+      
+      <guid>https://treylin.me/post/2014-10-13-ge-chi/</guid>
+      <description>最近的一段时间（一两个月），大幅度减少了耗费在各类社交网络、社区、论坛上的时间（Twitter 和 Instagram 除外），微信也一度处于登出状态，感觉良好，并没有真正损失什么，相反，最近的收获挺多。
+第三季度前半段因为工作的忙碌，以及自己的懒惰，阅读计划丢下不少。最近这段，在看 《瓦尔登湖》，我有意锻炼自己的英文阅读能力，所以中文译本和英文原文都看。中文是看的纸书，英文是端着 iPad 看的，进度慢一些。这里要谢谢苹果家的 iBook Store，上面有不少经典名著，大部分还是免费的。对梭罗当时激进的思想，印象深刻。即使放到今天来看，也似乎是一记记有力的耳光。「我相信在今天的中国，需要梭罗来唤醒的梦游者有很多。」中文译本的翻译者李继宏在导读中写道。我对第一章节中的一句话印象深刻：
+ 人们交口称赞和认为成功的生活，无非是生活的一种而已。我们为什么要夸耀一种，而牺牲其他各种呢？
+The life which men praise and regard as successful is but one kind. Why should we exaggerate any one kind at the expense of the others?
+ 《二十位人性见证者:当代摄影大师》，摄影相关书籍，文字虽然很好，但我有点辜负了作者。文字没有认真看，主要看照片。
+还有《江城》，作者是 96 年来到中国涪陵的「美中友好志愿者」，此书记录的是他在涪陵两年间的支教生活。从他踏上中国大地后就开始的，没有停止过的各种疑惑和好奇中，能反观出中国的很多很多问题。我惊讶于这本书居然能在大陆出版，而且还经过了多次再版。值得推荐的一本书，我看的是 Kindle 版的，中国亚马逊商店有售。
+技术方面，研究了关于 Objective-C runtime 的知识，主要是跟 Method Swizzling 相关的方面。国内讲述 Method Swizzling 原理的中文文章几乎没有，英文看到比较好的是 Mattt Thompson 在 NSHipster 上写的这篇 Method Swizzling ，以及这篇 The Right Way to Swizzle in Objective-C。我把后面这篇翻译了一下，暂存在了 Evernote 里，后面有时间就放上来吧。为了研究透彻，我还找了开源操作系统 GNUstep（官网） 里 method_exchangeImplementations 相关的源码来阅读。就以上的一些研究成果，在组内做了一次技术分享。国庆前做了另一次分享，是关于 Git 的一些高级用法。</description>
+    </item>
+    
+    <item>
+      <title>就这样，毕业了。</title>
+      <link>https://treylin.me/post/2014-06-19-i-have-graduated/</link>
+      <pubDate>Thu, 19 Jun 2014 22:23:14 CST</pubDate>
+      
+      <guid>https://treylin.me/post/2014-06-19-i-have-graduated/</guid>
+      <description>&lt;p&gt;领取毕业证书、学位证书的时间，是父亲节后的那天，2014 年 6 月 16 日，当天办了退宿离校各种手续，时间推着人走，就这样，离校了，就这样，毕业了。&lt;/p&gt;
+
+&lt;h3 id=&#34;感谢&#34;&gt;感谢&lt;/h3&gt;
+
+&lt;p&gt;要先感谢几个人：伟东，超伦，广明。他们一个给我的毕业论文提供了“原材料”，使我在公司项目进行到了水深火热无法自拔的时候，可以比较轻松地，不需太多思考地进行论文的写作和修改；一个在学校帮我打印了论文初稿，拿去给老师查阅评定；一个在论文通过之后，在学校帮我进行装订的各种善后事宜，免去了我要向公司请假，再坐一个多钟的班车回学校的麻烦事。感谢！没有这几个人，我想我论文的整个流程会进行得困难一些。如果以上三位看到这里，在你们有空闲的时候，可以拿起你们的手机，短信，电话，微信我，咱约饭，必然我请。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>几件事 几点感悟 (一篇12年的旧文)</title>
+      <link>https://treylin.me/post/2014-03-29-ji-jian-shi-ji-dian-gan-wu/</link>
+      <pubDate>Sat, 29 Mar 2014 11:08:00 CST</pubDate>
+      
+      <guid>https://treylin.me/post/2014-03-29-ji-jian-shi-ji-dian-gan-wu/</guid>
+      <description>&lt;p&gt;这是一篇 2012-02-25 在新浪博客上写了旧文，不知道为啥之后就再也没在那个平台上面写过东西，估计是太容易让人分心了吧。我是在看别人文章的时候点到自己的博客的，这才记起来我还有一个新浪博客这件事了。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ooo.0o0.ooo/2016/11/18/582e680f14c2b.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;一家五口，牛肉火锅，2012年1月25日。
+（PS：iPhone 自带的图片浏览是没有查看 exif 信息的功能的，没找到合适的 app 之前，只好绕个圈，把图片导入电脑，再查看照片信息，实属鸡肋一处啊）&lt;/p&gt;
+
+&lt;p&gt;那时候老弟老妹还都在放假中的，如今，该上学的上学，该上班的上班，家里比往日，也安静了许多。安静也好，可以静下心来，做些研究学习。年前几天和年后几天，实在是荒废了很多时间。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>It&#39;s life.</title>
+      <link>https://treylin.me/post/2013-01-29-ni-xiang-yao-de-sheng-huo/</link>
+      <pubDate>Tue, 29 Jan 2013 10:43:00 CST</pubDate>
+      
+      <guid>https://treylin.me/post/2013-01-29-ni-xiang-yao-de-sheng-huo/</guid>
+      <description>&lt;p&gt;这阵子，生活中影响比较大的，有一个人和一件事。&lt;/p&gt;
+
+&lt;h4 id=&#34;一个人-这个人-我不认识&#34;&gt;一个人，这个人，我不认识&lt;/h4&gt;
+
+&lt;p&gt;周末习惯要出去走走，不会太晚起床，哪怕是比前天晚上预期的起床时间晚了半小时，也会感到懊恼，这不会是什么焦虑症的前兆吧。以前挺喜欢热闹的，哪人多往哪钻。后来心态变了，不喜欢人太多的地方。上个周末，找了家咖啡馆，勉强消费得起。带了电脑，一坐，就是一个美好的下午。靠着墙坐，是玻璃幕墙，外面的行人车辆一清二楚。&lt;br /&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>心态的转变</title>
+      <link>https://treylin.me/post/2013-01-27-xin-tai-de-zhuan-bian/</link>
+      <pubDate>Sun, 27 Jan 2013 17:31:00 CST</pubDate>
+      
+      <guid>https://treylin.me/post/2013-01-27-xin-tai-de-zhuan-bian/</guid>
+      <description>读书，旅行，心灵，身体，总有一个要在路上。
+ :-)</description>
+    </item>
+    
+  </channel>
+</rss>
+
