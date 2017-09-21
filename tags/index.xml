@@ -90,16 +90,6 @@
     </item>
     
     <item>
-      <title>Test</title>
-      <link>https://treylin.me/tags/test/</link>
-      <pubDate>Tue, 19 Sep 2017 20:50:14 CST</pubDate>
-      
-      <guid>https://treylin.me/tags/test/</guid>
-      <description></description>
-      <content:encoded></content:encoded>
-    </item>
-    
-    <item>
       <title>Thinking</title>
       <link>https://treylin.me/tags/thinking/</link>
       <pubDate>Thu, 15 Dec 2016 16:52:48 CST</pubDate>
@@ -155,6 +145,16 @@
       <pubDate>Wed, 23 Nov 2016 00:09:50 CST</pubDate>
       
       <guid>https://treylin.me/tags/%E6%80%9D%E8%80%83/</guid>
+      <description></description>
+      <content:encoded></content:encoded>
+    </item>
+    
+    <item>
+      <title>排版</title>
+      <link>https://treylin.me/tags/%E6%8E%92%E7%89%88/</link>
+      <pubDate>Fri, 02 Dec 2016 10:02:48 CST</pubDate>
+      
+      <guid>https://treylin.me/tags/%E6%8E%92%E7%89%88/</guid>
       <description></description>
       <content:encoded></content:encoded>
     </item>
