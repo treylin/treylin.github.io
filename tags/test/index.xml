@@ -17,6 +17,9 @@
       <guid>https://treylin.me/post/first/</guid>
       <description>This is the first post of this blog.
 这是本博客的第一篇文章。</description>
+      <content:encoded><p><del>This is the first post of this blog.</del><br />
+这是本博客的第一篇文章。</p>
+</content:encoded>
     </item>
     
   </channel>
