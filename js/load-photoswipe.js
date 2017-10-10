@@ -71,7 +71,7 @@ $( document ).ready(function() {
 			var $pswp = $('.pswp')[0];
 			var options = {
 				index: index, 
-				bgOpacity: 0.8,
+				bgOpacity: 1.0,
 				showHideOpacity: true
 			}
 			new PhotoSwipe($pswp, PhotoSwipeUI_Default, items, options).init();
