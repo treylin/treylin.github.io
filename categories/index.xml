@@ -1,74 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Categories on 陌上 </title>
-      <generator uri="https://gohugo.io">Hugo</generator>
+    <title>Categories on 陌上</title>
     <link>https://treylin.me/categories/</link>
+    <description>Recent content in Categories on 陌上</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 20 Oct 2012 17:30:00 +0800</lastBuildDate>
     
+	<atom:link href="https://treylin.me/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    <updated>Sat, 20 Oct 2012 17:30:00 CST</updated>
     
     <item>
       <title>About Blog</title>
       <link>https://treylin.me/categories/about-blog/</link>
-      <pubDate>Sat, 20 Oct 2012 17:30:00 CST</pubDate>
+      <pubDate>Sat, 20 Oct 2012 17:30:00 +0800</pubDate>
       
       <guid>https://treylin.me/categories/about-blog/</guid>
       <description></description>
-      <content:encoded></content:encoded>
     </item>
     
     <item>
       <title>Aquarium</title>
       <link>https://treylin.me/categories/aquarium/</link>
-      <pubDate>Tue, 09 Apr 2013 22:10:00 CST</pubDate>
+      <pubDate>Tue, 09 Apr 2013 22:10:00 +0800</pubDate>
       
       <guid>https://treylin.me/categories/aquarium/</guid>
       <description></description>
-      <content:encoded></content:encoded>
     </item>
     
     <item>
       <title>Books</title>
       <link>https://treylin.me/categories/books/</link>
-      <pubDate>Thu, 30 Jun 2016 21:45:54 CST</pubDate>
+      <pubDate>Thu, 30 Jun 2016 21:45:54 +0800</pubDate>
       
       <guid>https://treylin.me/categories/books/</guid>
       <description></description>
-      <content:encoded></content:encoded>
     </item>
     
     <item>
       <title>Life</title>
       <link>https://treylin.me/categories/life/</link>
-      <pubDate>Sun, 24 Jan 2016 23:36:38 CST</pubDate>
+      <pubDate>Sun, 24 Jan 2016 23:36:38 +0800</pubDate>
       
       <guid>https://treylin.me/categories/life/</guid>
       <description></description>
-      <content:encoded></content:encoded>
     </item>
     
     <item>
       <title>Review</title>
       <link>https://treylin.me/categories/review/</link>
-      <pubDate>Sun, 31 Dec 2017 23:56:58 CST</pubDate>
+      <pubDate>Sun, 31 Dec 2017 23:56:58 +0800</pubDate>
       
       <guid>https://treylin.me/categories/review/</guid>
       <description></description>
-      <content:encoded></content:encoded>
     </item>
     
     <item>
       <title>Thinking</title>
       <link>https://treylin.me/categories/thinking/</link>
-      <pubDate>Thu, 15 Dec 2016 16:52:48 CST</pubDate>
+      <pubDate>Thu, 15 Dec 2016 16:52:48 +0800</pubDate>
       
       <guid>https://treylin.me/categories/thinking/</guid>
       <description></description>
-      <content:encoded></content:encoded>
     </item>
     
   </channel>
 </rss>
-

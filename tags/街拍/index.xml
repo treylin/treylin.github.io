@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>街拍 on 陌上 </title>
-      <generator uri="https://gohugo.io">Hugo</generator>
+    <title>街拍 on 陌上</title>
     <link>https://treylin.me/tags/%E8%A1%97%E6%8B%8D/</link>
+    <description>Recent content in 街拍 on 陌上</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 24 Oct 2016 14:24:44 +0800</lastBuildDate>
     
+	<atom:link href="https://treylin.me/tags/%E8%A1%97%E6%8B%8D/index.xml" rel="self" type="application/rss+xml" />
     
-    <updated>Mon, 24 Oct 2016 14:24:44 CST</updated>
     
     <item>
       <title>靠近</title>
       <link>https://treylin.me/post/2016-10-24-close/</link>
-      <pubDate>Mon, 24 Oct 2016 14:24:44 CST</pubDate>
+      <pubDate>Mon, 24 Oct 2016 14:24:44 +0800</pubDate>
       
       <guid>https://treylin.me/post/2016-10-24-close/</guid>
       <description>卡帕说过：如果你拍得不够好，那是因为你离得不够近。
@@ -20,90 +22,7 @@
 回来把照片导入电脑，屏幕大了，再看，她的表情就更加明显了。
 离得近，确实能使照片更加有张力，更有吸引力，细节更明显，但在被摄对象察觉到你的镜头时，也就对原有画面有所破坏了。不能忠实地还原，那纪实摄影，街头拍摄，是否还有意义呢？
 「I&amp;rsquo;m sort of a spy」，Vivian Maier 在被人问到她是做什么的时候如是回答。不无道理，作为一个好的人间窥探者，「间谍」一词，也许再合适不过。你需要适当地融入，又能在适当的时机抽身，以记录那些独一无二的瞬间。</description>
-      <content:encoded><p>
-<link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
-<div class="box" >
-  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <div class="img">
-      <img itemprop="thumbnail" src="https://ooo.0o0.ooo/2016/11/18/582e681139a29.jpg" />
-    </div>
-    <a href="https://ooo.0o0.ooo/2016/11/18/582e681139a29.jpg" itemprop="contentUrl"></a>
-  </figure>
-</div>
-
-
-
-
-  
-
-
-<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
-<script src="/js/load-photoswipe.js"></script>
-
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
-<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
-
-
-<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
-
-<div class="pswp__bg"></div>
-
-<div class="pswp__scroll-wrap">
-    
-    <div class="pswp__container">
-      <div class="pswp__item"></div>
-      <div class="pswp__item"></div>
-      <div class="pswp__item"></div>
-    </div>
-    
-    <div class="pswp__ui pswp__ui--hidden">
-    <div class="pswp__top-bar">
-      
-      <div class="pswp__counter"></div>
-      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
-      <button class="pswp__button pswp__button--share" title="Share"></button>
-      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
-      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
-      
-      
-      <div class="pswp__preloader">
-        <div class="pswp__preloader__icn">
-          <div class="pswp__preloader__cut">
-            <div class="pswp__preloader__donut"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
-      <div class="pswp__share-tooltip"></div>
-    </div>
-    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
-    </button>
-    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
-    </button>
-    <div class="pswp__caption">
-      <div class="pswp__caption__center"></div>
-    </div>
-    </div>
-    </div>
-</div>
-</p>
-
-<p>卡帕说过：如果你拍得不够好，那是因为你离得不够近。</p>
-
-<p>周末，在步行穿越一个拥堵的，没有斑马线的路口时，我拍下了园林卡车上的一位工人妇女。她有点蜷缩，探出头，身边是刚从路边树木上修剪下来的枝叶。对于我的接近，以及随后的拍摄动作，她的表情给出了反应：警惕，皱眉。我离得很近，同时也破坏了原有的画面：她略带忧虑的眼神望着远方。</p>
-
-<p>回来把照片导入电脑，屏幕大了，再看，她的表情就更加明显了。</p>
-
-<p>离得近，确实能使照片更加有张力，更有吸引力，细节更明显，但在被摄对象察觉到你的镜头时，也就对原有画面有所破坏了。不能忠实地还原，那纪实摄影，街头拍摄，是否还有意义呢？</p>
-
-<p>「I&rsquo;m sort of a spy」，Vivian Maier 在被人问到她是做什么的时候如是回答。不无道理，作为一个好的人间窥探者，「间谍」一词，也许再合适不过。你需要适当地融入，又能在适当的时机抽身，以记录那些独一无二的瞬间。</p>
-</content:encoded>
     </item>
     
   </channel>
 </rss>
-
