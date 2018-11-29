@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book on 陌上</title>
+    <link>https://treylin.me/tags/book/</link>
+    <description>Recent content in Book on 陌上</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Jun 2013 14:55:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://treylin.me/tags/book/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>《现代操作系统》书摘</title>
+      <link>https://treylin.me/post/2013-06-05-xian-dai-cao-zuo-xi-tong-shu-zhai/</link>
+      <pubDate>Wed, 05 Jun 2013 14:55:00 +0800</pubDate>
+      
+      <guid>https://treylin.me/post/2013-06-05-xian-dai-cao-zuo-xi-tong-shu-zhai/</guid>
+      <description>前阵子开始看《现代操作系统》，经典之作不用多说，计算机专业的同学们可以看看。很多地方写得都很好，引人入胜。决定在这里摘录一些片段。
+ 进程和程序间的区别是很微妙的，但非常重要。用一个比喻可以使我们更容易理解这一点。想象一位有一手好厨艺的计算机科学家正在为他的女儿烘制生日蛋糕。他有做生日蛋糕的食谱，厨房里有所需的原料：面粉、鸡蛋、糖、香草汁等。在这个比喻中，做蛋糕的食谱就是程序（即用适当形式描述的算法），计算机科学家就是处理机（CPU），而做蛋糕的各种原料就是输入数据。进程就是厨师阅读食谱、取来各种原料以及烘制蛋糕等一系列动作的总和。
+ 这段比喻很生动啊。</description>
+    </item>
+    
+  </channel>
+</rss>
