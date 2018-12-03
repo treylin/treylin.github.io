@@ -6,10 +6,157 @@
     <description>Recent content on 陌上</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Nov 2018 09:33:14 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 03 Dec 2018 08:55:47 +0800</lastBuildDate>
     
         <atom:link href="https://treylin.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Resume</title>
+      <link>https://treylin.me/resume/</link>
+      <pubDate>Mon, 03 Dec 2018 08:55:47 +0800</pubDate>
+      
+      <guid>https://treylin.me/resume/</guid>
+      <description>
+
+&lt;h2 id=&#34;林泽涛&#34;&gt;林泽涛&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;邮箱：&lt;/strong&gt;imtreylin@gmail.com&lt;br /&gt;
+&lt;strong&gt;手机：&lt;/strong&gt;(086)133 1626 0644&lt;br /&gt;
+&lt;a href=&#34;https://github.com/treylin&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;Blog：&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&#34;https://govoid.me&#34; target=&#34;_blank&#34;&gt;https://govoid.me&lt;/a&gt; （技术）&lt;br /&gt;
+&lt;a href=&#34;https://treylin.me&#34; target=&#34;_blank&#34;&gt;https://treylin.me&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;个人经历&#34;&gt;个人经历&lt;/h3&gt;
+
+&lt;h5 id=&#34;2014-年-4-月至今&#34;&gt;&lt;strong&gt;2014 年 4 月至今&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;欢聚时代集团（YY）&lt;/strong&gt;    iOS 开发工程师&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;2013-年-12-月-2014-年-3-月&#34;&gt;&lt;strong&gt;2013 年 12 月 ~ 2014 年 3 月&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;太平洋网络有限公司（太平洋汽车）&lt;/strong&gt;  iOS 开发工程师&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;2012-年-7-月-2013-年-11-月&#34;&gt;&lt;strong&gt;2012 年 7 月 ~ 2013 年 11 月&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;广州周末网络科技有限公司（超级课程表）&lt;/strong&gt;  iOS 开发工程师&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;2010-年-2014-年&#34;&gt;&lt;strong&gt;2010 年 ~ 2014 年&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;广州大学华软软件学院&lt;/strong&gt;  本科专业：软件工程&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;技能&#34;&gt;技能&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;熟悉 Swift 和 Objective-C&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;了解 JavaScript / HTML / CSS，修改、制作了个人博客主题，有小程序开发经历&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;了解 Go，写过自用 Telegram bot，使用 &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; 创建了个人博客&lt;a href=&#34;https://treylin.me&#34; target=&#34;_blank&#34;&gt;「陌上」&lt;/a&gt;、&lt;a href=&#34;https://govoid.me&#34; target=&#34;_blank&#34;&gt;GoVoid&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;良好的英文读写能力，有常年阅读的英文 RSS 源，Medium 文章读者，YouTube 重度使用者&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;项目经历&#34;&gt;项目经历&lt;/h3&gt;
+
+&lt;h5 id=&#34;2018-08-至今-欢聚时代集团-yy&#34;&gt;&lt;strong&gt;&lt;sup&gt;2018&lt;/sup&gt;&amp;frasl;&lt;sub&gt;08&lt;/sub&gt; 至今   欢聚时代集团（YY）&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Biu 神器 iOS 客户端 - 特效视频生成器  &lt;strong&gt;（项目 iOS 负责人）&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;2018-06-2018-08-欢聚时代集团-yy&#34;&gt;&lt;strong&gt;&lt;sup&gt;2018&lt;/sup&gt;&amp;frasl;&lt;sub&gt;06&lt;/sub&gt; ~ &lt;sup&gt;2018&lt;/sup&gt;&amp;frasl;&lt;sub&gt;08&lt;/sub&gt;  欢聚时代集团（YY）&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;DoDo计划 微信小程序 - 打卡工具、在线学习社区&lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;答题模块、礼物模块&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;2017-04-2018-03-欢聚时代集团-yy&#34;&gt;&lt;strong&gt;&lt;sup&gt;2017&lt;/sup&gt;&amp;frasl;&lt;sub&gt;04&lt;/sub&gt; ~ &lt;sup&gt;2018&lt;/sup&gt;&amp;frasl;&lt;sub&gt;03&lt;/sub&gt;  欢聚时代集团（YY）&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;补刀小视频 iOS 客户端 - 娱乐短视频社区&lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;信息流模块、评论模块&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;2017-12-2018-03-欢聚时代集团-yy&#34;&gt;&lt;strong&gt;&lt;sup&gt;2017&lt;/sup&gt;&amp;frasl;&lt;sub&gt;12&lt;/sub&gt; ~ &lt;sup&gt;2018&lt;/sup&gt;&amp;frasl;&lt;sub&gt;03&lt;/sub&gt; 欢聚时代集团（YY）&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;伴读 iOS 客户端 - 英文阅读学习应用&lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;等级、生词逻辑、文本渲染模块&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;2016-04-2016-10-欢聚时代集团-yy&#34;&gt;&lt;strong&gt;&lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;04&lt;/sub&gt; ~ &lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;10&lt;/sub&gt; 欢聚时代集团（YY）&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;花魁直播 iOS 客户端 - 直播平台  &lt;strong&gt;（项目 iOS 负责人）&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;2015-01-2016-04-欢聚时代集团-yy&#34;&gt;&lt;strong&gt;&lt;sup&gt;2015&lt;/sup&gt;&amp;frasl;&lt;sub&gt;01&lt;/sub&gt; ~ &lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;04&lt;/sub&gt; 欢聚时代集团（YY）&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;多玩手机盒子 - LOL英雄联盟社区应用（后更名为「多玩饭盒」）&lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;IM 模块、商城模块、直播模块、红包模块、大视频播放器等&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;2014-01-2014-04-欢聚时代集团-yy&#34;&gt;&lt;strong&gt;&lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;01&lt;/sub&gt; ~ &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;04&lt;/sub&gt; 欢聚时代集团（YY）&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;5253 iOS 客户端 - 手游集合推荐应用&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;2014-05-2014-09-欢聚时代集团-yy&#34;&gt;&lt;strong&gt;&lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;05&lt;/sub&gt; ~ &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;09&lt;/sub&gt; 欢聚时代集团（YY）&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;私密圈 iOS 客户端 - 匿名社交应用&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;2013-12-2014-03-太平洋网络有限公司&#34;&gt;&lt;strong&gt;&lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;12&lt;/sub&gt; ~ &lt;sup&gt;2014&lt;/sup&gt;&amp;frasl;&lt;sub&gt;03&lt;/sub&gt; 太平洋网络有限公司&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;太平洋汽车 iOS 客户端&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;2012-07-2013-11-广州周末网络科技有限公司&#34;&gt;&lt;strong&gt;&lt;sup&gt;2012&lt;/sup&gt;&amp;frasl;&lt;sub&gt;07&lt;/sub&gt; - &lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;11&lt;/sub&gt; 广州周末网络科技有限公司&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;超级课程表 iOS 客户端&lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;iOS 开发工程师，早期团队成员&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
     
     <item>
       <title>巧合</title>
@@ -80,7 +227,7 @@
       <pubDate>Sun, 31 Dec 2017 23:56:58 +0800</pubDate>
       
       <guid>https://treylin.me/post/2017/</guid>
-      <description>&lt;p&gt;以去年给自己暗自定下的目标来看，二零一七年是比较失败的一年。但这一年，各方面却有不少的改变和收获。&lt;/p&gt;
+      <description>&lt;p&gt;以去年给自己暗自定下的目标来看，二零一七年是比较平庸的一年。但这一年，各方面却有不少的改变和收获。&lt;/p&gt;
 
 &lt;p&gt;阅读量是去年的二分之一，电影与表演若干。较去年，精神世界的涵养与修炼似有不足，实则不尽然。&lt;/p&gt;
 
@@ -145,7 +292,7 @@
       <description>&lt;p&gt;今年的阅读量提高了一点，通过在豆瓣上标记为「读过」的数量计算，是二十三本，
 手边还是三本是还在阅读中的。数量上并没有太大飞跃，看着这一串书名，时间就在它们的陪伴下一刻不停地走着。走着走着，一年就过去了。&lt;/p&gt;
 
-&lt;p&gt;工作上是一个稳步前进的状态，基本没有突破。期间全程负责了一个项目的开发，经历一些公司层面的所谓变化，项目被停掉。宣布停掉的那天上午，开会之前，还和同事在讨论遇到的一个技术问题。这细节大概能说明些问题，不多论了。&lt;/p&gt;
+&lt;p&gt;工作上是一个稳步前进的状态，没有大的突破。期间全程负责了一个项目的开发，经历一些公司层面的所谓变化，项目被停掉。宣布停掉的那天上午，开会之前，还和同事在讨论遇到的一个技术问题。这细节大概能说明些问题，不多论了。&lt;/p&gt;
 
 &lt;p&gt;照片继续拍。对「摄影」、「摄影师」这类词汇的感觉基本还是和之前一样，太大太重。但说的人多了，也就不会每次都去纠正说是「只是一个喜欢拍照的人」了，那样反而显得矫情。自己很清楚，这就只是一个喜欢拍照，享受在「发现目标，举起相机，对焦，构图，按下快门」这一过程中，并且相对认真对待的人，离「师」还有巨大的距离。我时常把拍摄的过程比作射击，每一次的精确制导，会产生小小的成就感和愉悦。有趣的是，在英文语境里，「Photographer」用起来会压力小很多。&lt;/p&gt;
 
