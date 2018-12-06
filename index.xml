@@ -126,14 +126,24 @@
 
 &lt;h3 id=&#34;联&#34;&gt;联&lt;/h3&gt;
 
-&lt;ul&gt;
-&lt;li&gt;E-mail: imtreylin@gmail.com&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Twitter:   &lt;a href=&#34;https://twitter.com/trey_lin&#34; title=&#34;Twitter&#34; target=&#34;_blank&#34;&gt;@trey_lin&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;SinaWeibo: &lt;a href=&#34;http://weibo.com/alongsongfromtt&#34; title=&#34;SinaWeibo&#34; target=&#34;_blank&#34;&gt;@trey_lin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Instagram: &lt;a href=&#34;https://www.instagram.com/treylin&#34; title=&#34;Instagram&#34; target=&#34;_blank&#34;&gt;@treylin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Douban:    &lt;a href=&#34;https://www.douban.com/people/alongsong/&#34; title=&#34;Douban&#34; target=&#34;_blank&#34;&gt;@trey_lin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.pinterest.com/imtreylin/&#34; target=&#34;_blank&#34;&gt;Pinterest&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:imtreylin@gmail.com&#34;&gt;
+    &lt;i class=&#34;far fa-envelope fa-lg&#34;&gt;&lt;/i&gt;
+&lt;/a&gt;&amp;nbsp;
+&lt;a href=&#34;https://twitter.com/trey_lin&#34; target=&#34;_blank&#34;&gt;
+    &lt;i class=&#34;fab fa-twitter fa-lg&#34;&gt;&lt;/i&gt;
+&lt;/a&gt;&amp;nbsp;
+&lt;a href=&#34;http://weibo.com/alongsongfromtt&#34; target=&#34;_blank&#34;&gt;
+    &lt;i class=&#34;fab fa-weibo fa-lg&#34;&gt;&lt;/i&gt;
+&lt;/a&gt;&amp;nbsp;
+&lt;a href=&#34;https://www.instagram.com/treylin&#34; target=&#34;_blank&#34;&gt;
+    &lt;i class=&#34;fab fa-instagram fa-lg&#34;&gt;&lt;/i&gt;
+&lt;/a&gt;&amp;nbsp;
+&lt;a href=&#34;https://www.pinterest.com/imtreylin/&#34; target=&#34;_blank&#34;&gt;
+    &lt;i class=&#34;fab fa-pinterest fa-lg&#34;&gt;&lt;/i&gt;
+&lt;/a&gt;&amp;nbsp;
+&lt;a href=&#34;https://github.com/treylin&#34; target=&#34;_blank&#34;&gt;
+    &lt;i class=&#34;fab fa-github fa-lg&#34;&gt;&lt;/i&gt;
+&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
